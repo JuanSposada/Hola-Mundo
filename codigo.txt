@@ -1,0 +1,4 @@
+int a, v[10];
+int main ()
+{
+printf("Hola mundo");
